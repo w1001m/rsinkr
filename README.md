@@ -7,6 +7,6 @@ To use...
 2) In Home directory create rsinkr directory (mkdir \~/rsinkr) <br />
 3) In \~/rsinkr create servers directory (mkdir \~/rsinkr/servers) <br />
 4) In \~/rsinkr add run.sh (\~/rsinkr/run.sh_ <br />
-
+```
 bash ~/rsinkr/run.sh 
-
+```
