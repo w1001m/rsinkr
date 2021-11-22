@@ -8,3 +8,4 @@ To use...
 3)In ~/rsinkr create directory ~/rsinkr/servers <br />
 4)Add run.sh to home directory ~/rsinkr/run.sh <br />
 5)bash ~/rsinkr/run.sh <br />
+
