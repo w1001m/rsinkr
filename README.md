@@ -1,5 +1,5 @@
 # rsinkr
-bash rsync + gzip automation
+rsync + gzip automation
 
 **Setup**
 
